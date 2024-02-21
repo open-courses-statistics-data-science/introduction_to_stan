@@ -5,4 +5,4 @@ The [lecture](presentations/introduction_to_stan.pdf) gives an introduction to [
 
 The [problem set](problem_sets/introduction_to_stan_problem_sets.pdf) gives participants experience in coding up Stan programmes and performing posterior predictive checks of models using Stan. It also gives examples of how to fit discrete-parameter models in Stan.
 
-**Prerequisite knowledge:** programming experience in either R, Python or some other software which supports the use of Stan. Participants should also know the basics of Bayesian inference and how some of the simpler Markov chain Monte Carlo algorithms work.
+**Prerequisite knowledge:** programming experience in either R, Python or some other software which supports the use of Stan. Participants should also know the basics of Bayesian inference and how some of the simpler Markov chain Monte Carlo algorithms work. They should also have Stan installed and the software package necessary to call Stan from whatever software you use (e.g. for R, you need rstan installed; for Python, you need pystan installed); for installation instructions, consult the [Stan webpage](https://mc-stan.org/).
