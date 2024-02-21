@@ -1,5 +1,5 @@
 # Introduction to Stan
-This Github provides a half-day introduction to Stan.
+This Github provides a half-day introduction to [Stan](https://mc-stan.org/).
 
 The [lecture](presentations/introduction_to_stan.pdf) gives an introduction to [Hamiltonian Monte Carlo](https://www.youtube.com/watch?v=a-wydhEuAm0) which is the core foundation of Stan's inference algorithm. It then goes on to introduce the Stan language, walking through the coding up of Stan programmes and running them (from R).
 
